@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+.Search-box{
+    background-image: url(magnifying-glass-solid-full.svg);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    
+    text-indent: 20px; 
+    border:  1px solid gray;
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+background-color: rgb(203, 200, 200);
+
+}
+.layout-content{
+    background-color: black;
+    color: gray;
+    display: flex;
+    padding: 16px;
+ gap: 30px;
+ font-size: 22px;
+}
+.btn{
+    height: 50px;
+    width: 120px;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.library-layout{
+    width: 500px;
+    height:420px ;
+    background-color: black;
+    color: white;
+    
+}
+.library-content{
+}
+.library-content h4{
+   padding: 15px;
+    background-color: rgb(110, 110, 110);
+     
+}
+
+.footer{
+    position: relative;
+    top: 100px;
+    background-color: rgb(72, 71, 71);
+}
+.my-content{
+    padding: 10PX;
+}
+.my-content .Hp{
+padding: 5px;
+font-size: 16px;
+}
+.mybtn2{
+    width: 110px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.lib-content-2{
+    padding: 10px;
+}
+.lib-content-2 .PH{
+    padding: 5px;
+    font-size: 16px;
+}
+.mybtn3{
+    width: 130px;
+    padding: 10px;
+    margin: 10px;       
+    border-radius: 20px;
+}
+.eng{
+  width: 130px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;   
+}
+.layout-side-2{
+
+    
+
+    
+}
